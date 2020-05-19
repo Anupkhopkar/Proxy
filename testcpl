@@ -1,0 +1,4 @@
+;::::::::::::::::::: This is TEST CPL file to block example.com  :::::::::::::::::::
+<proxy>
+url.domain=”example.com” Deny
+;::::::::::::::::::: END Bypass Proxy Based on URL :::::::::::::::::::
